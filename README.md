@@ -1,16 +1,17 @@
-## Hi there 👋
+## Olá! Bem vindo ao meu perfil 😸
 
-<!--
-**RAFAELA-FS/RAFAELA-FS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Rafaela Fonseca
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Ultilizo esse espaço para minha orgnaizção e compartilhamento do meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entrar em contato comigo 📧
+
+rafafonseca9000@gmail.com
+
+
+
+![image](https://github.com/user-attachments/assets/e2ce87b5-7d2e-44a9-8778-f69083b2aedf)
+
+
