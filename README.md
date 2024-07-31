@@ -12,6 +12,9 @@ rafafonseca9000@gmail.com
 
 
 
-![image](https://github.com/user-attachments/assets/e2ce87b5-7d2e-44a9-8778-f69083b2aedf)
+![](https://github.com/user-attachments/assets/48fb0d9b-5543-4cb5-9bcc-38daf6d48dba)
+
+
+
 
 
